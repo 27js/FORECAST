@@ -42,6 +42,3 @@ tensorflow/keras (if using deep learning models) 🤖
 ⚠️ Notes
 The notebook is designed to be flexible for different types of time series data.
 Ensure the time series data is properly formatted (e.g., datetime index) before loading it into the notebook. ⏳
-💬 Conclusion
-This notebook serves as a template for time series forecasting projects. Users can adapt and expand the methods included to suit their specific datasets and objectives. 🔧📊
-
